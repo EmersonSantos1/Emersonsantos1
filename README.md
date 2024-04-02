@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emersonsantos
 - 👀 I’m interested in ...aprender mais sobre Analise e Desenvolvimento de Sistemas;
 - 🌱 I’m currently learning ...mais sobre o mundo dos Códigos </>;
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projetos;
 - 📫 How to reach me ...
 
 <!---
